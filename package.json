@@ -1,0 +1,19 @@
+{
+  "name": "compressedphil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compressSVG.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^26.0.0",
+    "node-html-parser": "^7.0.1",
+    "svg-path-parser": "^1.1.0",
+    "svgo": "^3.3.2"
+  }
+}
